@@ -1,0 +1,5 @@
+File_Name_R1	Sample	Condition	Replicate	Sample_name
+SRR1910733.fastq.gz	Sample_1	Mock	1	Mock_1
+SRR1910737.fastq.gz	Sample_2	Mock	2	Mock_2
+SRR1910734.fastq.gz	Sample_3	IFN	1	IFN_1
+SRR1910738.fastq.gz	Sample_4	IFN	2	IFN_2
